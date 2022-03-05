@@ -1,5 +1,6 @@
-# React Dersleri Github Kullanım Rehberi
-
+# Github Kullanım Rehberi
+ 
+ # sarı olacak bu ekleme olduğu ve bunun takip edildiği anlamı taşır M yani modified demek
 Bu belge, GitHub kullanımıyla ilgili giriş seviyesinde bir tanıtım amacıyla hazırlanmıştır.
 
 #### Diğer GitHub Videoları
